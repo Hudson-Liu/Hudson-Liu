@@ -1,16 +1,16 @@
-## Hi there 👋
+<p align="left"><strong><samp>「</samp></strong></p>
+   <p align="center">
+      <samp>
+         <em>Hudson Liu, Gilman School</em>
+      </samp><br>
+   </p>
+   <p align="center">
+      <samp>
+         <a href="https://discord.com/users/879464844103934014" target="_blank">Discord</a> &#8226;
+         <a href="https://Hudson-Liu.github.io/Personal-Website" target="_blank">Website</a> &#8226;
+         <a href="https://open.spotify.com/user/gp7nllrydxulmq3ffjci87nod" target="_blank">Spotify</a>
+      </samp>
+   </p>
+<p align="right"><strong><samp>」</samp></strong></p>
 
-<!--
-**Hudson-Liu/Hudson-Liu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- reference: kizu ( janleigh ) -->
